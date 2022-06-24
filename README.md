@@ -57,7 +57,8 @@ cask dbeaver-community
 cask iterm2
 cask firefox
 cask google-chrome
-cask git-credential-manager-core
+#cask git-credential-manager-core # not working on M1
+cask spotify
 cask rectangle
 cask visual-studio-code
 cask zoom
@@ -105,3 +106,22 @@ wholroyd.jinja
 EOF
 for extension in $(cat ~/.vscode-extensions); do code --install-extension $extension; done
 ```
+
+Install oh-my-zsh:
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:=~/.oh-my-zsh/custom}/plugins/zsh-completions
+
+```
+
+Install iTerm2 integration
+
+```bash
+curl -L https://iterm2.com/shell_integration/install_shell_integration_and_utilities.sh | bash
+```
+
+Make it default shell: https://stackoverflow.com/a/61265115
+
+
