@@ -110,4 +110,9 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+alias cdd="cd ~/Documents"
+alias cdbb="cd ~/Documents/bitbucket"
+alias cdgh="cd ~/Documents/own-github"
+alias cdogh="cd ~/Documents/own-github"
+
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
