@@ -44,6 +44,7 @@ brew git
 brew glib
 brew gmp
 brew gnu-getopt
+brew gnupg
 brew gnutls
 brew go
 brew graphite2
@@ -78,6 +79,7 @@ brew kubectx
 brew kubent
 brew kubernetes-cli
 brew kubeval
+brew libassuan
 brew libde265
 brew libevent
 brew libffi
@@ -87,6 +89,7 @@ brew libgpg-error
 brew libheif
 brew libidn
 brew libidn2
+brew libksba
 brew liblinear
 brew liblqr
 brew libnghttp2
@@ -127,6 +130,7 @@ brew mtr
 brew ncurses
 brew nettle
 brew nmap
+brew npth
 brew oci-cli
 brew odo-dev
 brew oniguruma
@@ -143,6 +147,7 @@ brew p11-kit
 brew packer
 brew pcre
 brew pcre2
+brew pinentry
 brew pixman
 brew pkg-config
 brew pycparser
