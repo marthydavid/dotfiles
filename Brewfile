@@ -256,9 +256,6 @@ tap norwoodj/tap
 tap rcmdnk/file
 brew brew-file
 
-
-# Other Homebrew packages
-
 # App Store applications
 appstore 1402042596 AdBlock (2.1.2)
 appstore 1432731683 Adblock Plus (2.2.12)
@@ -274,4 +271,5 @@ appstore 409907375 Remote Desktop (3.9.7)
 appstore 425424353 The Unarchiver (4.3.6)
 appstore 1230249825 VMware Remote Console (12.0.5)
 
+# Main file
 main ~/.config/.Brewfile
