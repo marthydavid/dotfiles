@@ -260,7 +260,6 @@ tap norwoodj/tap
 tap rcmdnk/file
 brew brew-file
 
-tap vmware-tanzu/buildkit-cli-for-kubectl
 
 # Other Homebrew packages
 brew erlang@23
