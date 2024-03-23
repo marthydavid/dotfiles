@@ -206,7 +206,6 @@ tap homebrew/cask
 cask adobe-acrobat-reader
 cask balenaetcher
 cask chromium
-cask copyq
 cask firefox
 cask google-chrome
 cask iterm2
