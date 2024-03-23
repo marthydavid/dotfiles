@@ -7,7 +7,6 @@ brew argo
 brew argocd
 brew argocd-autopilot
 brew argp-standalone
-brew asdf
 brew autoconf
 brew automake
 brew avro-c
@@ -161,7 +160,6 @@ brew pyyaml
 brew qemu
 brew rancher-cli
 brew readline
-brew rebar3
 brew redis
 brew rtmpdump
 brew shared-mime-info
@@ -261,7 +259,6 @@ brew brew-file
 
 
 # Other Homebrew packages
-brew erlang@23
 
 # App Store applications
 appstore 1402042596 AdBlock (2.1.2)
