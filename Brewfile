@@ -164,7 +164,6 @@ brew redis
 brew rtmpdump
 brew shared-mime-info
 brew six
-brew skaffold
 brew snappy
 brew speedtest-cli
 brew sqlite
