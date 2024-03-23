@@ -261,6 +261,8 @@ appstore 1460836908 GoPro Player (2.1.10)
 appstore 409183694 Keynote (13.2)
 appstore 409203825 Numbers (13.2)
 appstore 409201541 Pages (13.2)
+appstore 937984704
+appstore 1230249825
 
 # Main file
 main ~/.config/.Brewfile
