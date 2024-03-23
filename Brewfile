@@ -257,19 +257,10 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 1402042596 AdBlock (2.1.2)
-appstore 1432731683 Adblock Plus (2.2.12)
-appstore 937984704 Amphetamine (5.3.2)
-appstore 682658836 GarageBand (10.4.10)
 appstore 1460836908 GoPro Player (2.1.10)
-appstore 408981434 iMovie (10.4)
 appstore 409183694 Keynote (13.2)
-appstore 1295203466 Microsoft Remote Desktop (10.9.5)
 appstore 409203825 Numbers (13.2)
 appstore 409201541 Pages (13.2)
-appstore 409907375 Remote Desktop (3.9.7)
-appstore 425424353 The Unarchiver (4.3.6)
-appstore 1230249825 VMware Remote Console (12.0.5)
 
 # Main file
 main ~/.config/.Brewfile
