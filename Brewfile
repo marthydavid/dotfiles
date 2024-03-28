@@ -257,7 +257,6 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 1460836908 GoPro Player (2.1.10)
 appstore 409183694 Keynote (13.2)
 appstore 409203825 Numbers (13.2)
 appstore 409201541 Pages (13.2)
