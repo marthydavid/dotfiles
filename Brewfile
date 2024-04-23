@@ -206,6 +206,7 @@ cask chromium
 cask firefox
 cask google-chrome
 cask iterm2
+cask maccy
 cask openlens
 cask openshift-client
 cask postman
