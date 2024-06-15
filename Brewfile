@@ -8,7 +8,6 @@ brew argocd
 brew argocd-autopilot
 brew argp-standalone
 brew autoconf
-brew automake
 brew avro-c
 brew awscli
 brew azure-cli
@@ -23,7 +22,6 @@ brew cffi
 brew cfssl
 brew cilium-cli
 brew consul
-brew coreutils
 brew cryptography
 brew curl
 brew datree
