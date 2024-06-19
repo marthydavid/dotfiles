@@ -44,6 +44,7 @@ brew gnu-getopt
 brew gnupg
 brew gnutls
 brew go
+brew go@1.21
 brew graphite2
 brew guile
 brew harfbuzz
