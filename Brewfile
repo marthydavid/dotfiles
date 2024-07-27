@@ -83,6 +83,7 @@ brew libevent
 brew libffi
 brew libgcrypt
 brew libgit2
+brew libgit2@1.7
 brew libgpg-error
 brew libheif
 brew libidn
