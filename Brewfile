@@ -50,6 +50,7 @@ brew guile
 brew harfbuzz
 brew helm
 brew helm-docs
+brew helm-ls
 brew hey
 brew highway
 brew htop
