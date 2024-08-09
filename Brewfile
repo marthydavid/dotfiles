@@ -170,7 +170,7 @@ brew snappy
 brew speedtest-cli
 brew sqlite
 brew sshpass
-brew startship
+brew starship
 brew tcl-tk
 brew terraform
 brew the_silver_searcher
@@ -200,6 +200,8 @@ brew xz
 brew yajl
 brew yq
 brew zsh-completions
+brew zsh-history-substring-search
+brew zsh-syntax-highlighting
 brew zstd
 
 tap homebrew/cask
