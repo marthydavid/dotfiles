@@ -33,6 +33,7 @@ brew erlang
 brew fontconfig
 brew freeipmi
 brew freetype
+brew fzf
 brew gdbm
 brew gettext
 brew ghostscript
@@ -169,6 +170,7 @@ brew snappy
 brew speedtest-cli
 brew sqlite
 brew sshpass
+brew startship
 brew tcl-tk
 brew terraform
 brew the_silver_searcher
