@@ -30,6 +30,7 @@ brew docbook-xsl
 brew docutils
 brew dtc
 brew erlang
+brew eza
 brew fontconfig
 brew freeipmi
 brew freetype
@@ -174,6 +175,7 @@ brew starship
 brew tcl-tk
 brew terraform
 brew the_silver_searcher
+brew thefuck
 brew tig
 brew tilt
 brew tmux
