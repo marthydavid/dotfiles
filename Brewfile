@@ -265,4 +265,4 @@ tap rcmdnk/file
 brew brew-file
 
 # Main file
-main ~/.config/.Brewfile
+file ~/.config/.Brewfile
