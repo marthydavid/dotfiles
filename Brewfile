@@ -211,6 +211,7 @@ cask adobe-acrobat-reader
 cask balenaetcher
 cask chromium
 cask firefox
+cask font-code-new-roman-nerd-font
 cask google-chrome
 cask iterm2
 cask maccy
