@@ -37,6 +37,7 @@ brew freetype
 brew fzf
 brew gdbm
 brew gettext
+brew gh
 brew ghostscript
 brew giflib
 brew git
@@ -265,5 +266,5 @@ tap norwoodj/tap
 tap rcmdnk/file
 brew brew-file
 
-# Main file
+# Additional files
 file ~/.config/.Brewfile
