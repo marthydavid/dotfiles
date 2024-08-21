@@ -30,7 +30,6 @@ brew docbook-xsl
 brew docutils
 brew dtc
 brew erlang
-brew eza
 brew fontconfig
 brew freeipmi
 brew freetype
@@ -142,7 +141,6 @@ brew openjdk
 brew openjdk@11
 brew openjdk@17
 brew openjpeg
-brew openldap
 brew openssl@1.1
 brew openssl@3
 brew operator-sdk
@@ -176,7 +174,6 @@ brew starship
 brew tcl-tk
 brew terraform
 brew the_silver_searcher
-brew thefuck
 brew tig
 brew tilt
 brew tmux
@@ -265,6 +262,9 @@ tap norwoodj/tap
 
 tap rcmdnk/file
 brew brew-file
+
+# App Store applications
+appstore 408981434 iMovie (10.4.2)
 
 # Additional files
 file ~/.config/.Brewfile
