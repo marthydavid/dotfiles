@@ -70,6 +70,8 @@ brew jp
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
+brew jsonnet
+brew jsonnet-bundler
 brew k3d
 brew k9s
 brew kcat
