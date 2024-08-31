@@ -218,16 +218,13 @@ cask font-code-new-roman-nerd-font
 cask google-chrome
 cask iterm2
 cask maccy
-cask openlens
 cask openshift-client
-cask postman
 cask powershell
 cask rancher
 cask rectangle
 cask slack
 cask spotify
 cask tunnelblick
-cask utm
 cask visual-studio-code
 cask wine-stable
 cask wireshark
