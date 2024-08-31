@@ -20,6 +20,7 @@ brew capstone
 brew certifi
 brew cffi
 brew cfssl
+brew chart-testing
 brew cilium-cli
 brew consul
 brew cryptography
@@ -73,6 +74,7 @@ brew jq
 brew jsonnet
 brew jsonnet-bundler
 brew k3d
+brew k6
 brew k9s
 brew kcat
 brew krew
@@ -200,6 +202,7 @@ brew xmlto
 brew xorgproto
 brew xz
 brew yajl
+brew yamale
 brew yq
 brew zsh-completions
 brew zsh-history-substring-search
