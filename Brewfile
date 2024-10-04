@@ -49,6 +49,7 @@ brew gnutls
 brew go
 brew go@1.21
 brew graphite2
+brew grpcurl
 brew guile
 brew harfbuzz
 brew helm
@@ -81,6 +82,7 @@ brew krew
 brew kube-score
 brew kubeconform
 brew kubectx
+brew kubelogin
 brew kubent
 brew kubernetes-cli
 brew kubeval
@@ -218,6 +220,7 @@ cask font-code-new-roman-nerd-font
 cask google-chrome
 cask iterm2
 cask maccy
+cask microsoft-auto-update
 cask openshift-client
 cask powershell
 cask rancher
@@ -241,6 +244,8 @@ tap argoproj/tap
 
 tap azure/draft
 brew draft
+
+tap azure/kubelogin
 
 tap buo/cask-upgrade
 
@@ -266,7 +271,15 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
+appstore 1402042596 AdBlock (2.1.7)
+appstore 1432731683 Adblock Plus (2.2.16)
+appstore 1460836908 GoPro Player (3.0.0)
 appstore 408981434 iMovie (10.4.2)
+appstore 409183694 Keynote (14.2)
+appstore 1295203466 Microsoft Remote Desktop (10.9.10)
+appstore 409203825 Numbers (14.2)
+appstore 409201541 Pages (14.2)
+appstore 497799835 Xcode (16.0)
 
 # Additional files
 file ~/.config/.Brewfile
