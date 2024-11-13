@@ -181,6 +181,7 @@ brew rtmpdump
 brew shared-mime-info
 brew six
 brew snappy
+brew sonobuoy
 brew speedtest-cli
 brew sqlite
 brew sshpass
