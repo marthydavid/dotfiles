@@ -34,6 +34,7 @@ brew erlang
 brew fontconfig
 brew freeipmi
 brew freetype
+brew fribidi
 brew fzf
 brew gdbm
 brew gettext
@@ -59,7 +60,7 @@ brew hey
 brew highway
 brew htop
 brew hubble
-brew icu4c
+brew icu4c@75
 brew imagemagick
 brew imath
 brew ipmitool
@@ -85,9 +86,12 @@ brew kubectx
 brew kubelogin
 brew kubent
 brew kubernetes-cli
-brew kubeval
+brew leptonica
+brew libarchive
 brew libassuan
+brew libb2
 brew libde265
+brew libdeflate
 brew libevent
 brew libffi
 brew libgcrypt
@@ -108,10 +112,12 @@ brew libraw
 brew librdkafka
 brew libserdes
 brew libslirp
+brew libsodium
 brew libssh
 brew libssh2
 brew libtasn1
 brew libtiff
+brew libtommath
 brew libtool
 brew libunistring
 brew libusb
@@ -152,16 +158,18 @@ brew openssl@3
 brew operator-sdk
 brew p11-kit
 brew packer
+brew pango
 brew pcre
 brew pcre2
 brew pinentry
 brew pixman
-brew pkg-config
 brew pycparser
 brew pyenv
+brew python-packaging
 brew python@3.10
 brew python@3.11
 brew python@3.12
+brew python@3.13
 brew python@3.8
 brew python@3.9
 brew pyyaml
@@ -179,6 +187,7 @@ brew sshpass
 brew starship
 brew tcl-tk
 brew terraform
+brew tesseract
 brew the_silver_searcher
 brew tig
 brew tilt
@@ -198,7 +207,6 @@ brew watch
 brew webp
 brew wget
 brew wxwidgets
-brew wxwidgets@3.0
 brew x265
 brew xmlto
 brew xorgproto
@@ -222,6 +230,7 @@ cask iterm2
 cask maccy
 cask microsoft-auto-update
 cask openshift-client
+cask podman-desktop
 cask powershell
 cask rancher
 cask rectangle
@@ -269,6 +278,12 @@ tap norwoodj/tap
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Homebrew packages
+brew icu4c
+brew kubeval
+brew pkg-config
+brew wxwidgets@3.0
 
 # App Store applications
 appstore 1402042596 AdBlock (2.1.7)
