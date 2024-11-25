@@ -16,7 +16,6 @@ brew bdw-gc
 brew brotli
 brew ca-certificates
 brew cairo
-brew capstone
 brew certifi
 brew cffi
 brew cfssl
@@ -29,7 +28,6 @@ brew datree
 brew docbook
 brew docbook-xsl
 brew docutils
-brew dtc
 brew erlang
 brew fontconfig
 brew freeipmi
@@ -111,9 +109,7 @@ brew libpthread-stubs
 brew libraw
 brew librdkafka
 brew libserdes
-brew libslirp
 brew libsodium
-brew libssh
 brew libssh2
 brew libtasn1
 brew libtiff
@@ -167,13 +163,11 @@ brew pycparser
 brew pyenv
 brew python-packaging
 brew python@3.10
-brew python@3.11
 brew python@3.12
 brew python@3.13
 brew python@3.8
 brew python@3.9
 brew pyyaml
-brew qemu
 brew rancher-cli
 brew readline
 brew redis
@@ -202,7 +196,6 @@ brew utf8proc
 brew vault
 brew vault-cli
 brew vcluster
-brew vde
 brew velero
 brew watch
 brew webp
