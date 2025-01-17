@@ -172,6 +172,7 @@ brew pyyaml
 brew rancher-cli
 brew readline
 brew redis
+brew roxctl
 brew rtmpdump
 brew shared-mime-info
 brew six
