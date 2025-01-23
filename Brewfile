@@ -85,6 +85,7 @@ brew kubectx
 brew kubelogin
 brew kubent
 brew kubernetes-cli
+brew kubeseal
 brew leptonica
 brew libarchive
 brew libassuan
@@ -95,7 +96,6 @@ brew libevent
 brew libffi
 brew libgcrypt
 brew libgit2
-brew libgit2@1.7
 brew libgpg-error
 brew libheif
 brew libidn
@@ -172,7 +172,6 @@ brew pyyaml
 brew rancher-cli
 brew readline
 brew redis
-brew roxctl
 brew rtmpdump
 brew shared-mime-info
 brew six
