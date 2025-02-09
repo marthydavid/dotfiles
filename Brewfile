@@ -85,7 +85,6 @@ brew kubectx
 brew kubelogin
 brew kubent
 brew kubernetes-cli
-brew kubeseal
 brew leptonica
 brew libarchive
 brew libassuan
@@ -96,6 +95,7 @@ brew libevent
 brew libffi
 brew libgcrypt
 brew libgit2
+brew libgit2@1.7
 brew libgpg-error
 brew libheif
 brew libidn
@@ -164,6 +164,7 @@ brew pycparser
 brew pyenv
 brew python-packaging
 brew python@3.10
+brew python@3.11
 brew python@3.12
 brew python@3.13
 brew python@3.8
@@ -172,6 +173,7 @@ brew pyyaml
 brew rancher-cli
 brew readline
 brew redis
+brew roxctl
 brew rtmpdump
 brew shared-mime-info
 brew six
@@ -221,6 +223,7 @@ cask chromium
 cask firefox
 cask font-code-new-roman-nerd-font
 cask google-chrome
+cask gstreamer-runtime
 cask insomnia
 cask iterm2
 cask maccy
@@ -234,7 +237,6 @@ cask slack
 cask spotify
 cask tunnelblick
 cask visual-studio-code
-cask wine-stable
 cask wireshark
 cask zerotier-one
 cask zoom
