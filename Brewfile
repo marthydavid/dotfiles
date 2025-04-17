@@ -25,7 +25,6 @@ brew gh
 brew git
 brew glib
 brew gnu-getopt
-brew gnupg
 brew gnutls
 brew grpcurl
 brew guile
@@ -63,7 +62,6 @@ brew odo-dev
 brew openjdk
 brew openjdk@11
 brew openjdk@17
-brew openssl@1.1
 brew openssl@3
 brew pyenv
 brew python-packaging
@@ -82,11 +80,9 @@ brew tcl-tk
 brew terraform
 brew the_silver_searcher
 brew tig
-brew tilt
 brew tmux
 brew tree
-brew vault
-brew vault-cli
+brew hashicorp/tap/vault
 brew vcluster
 brew velero
 brew watch
@@ -108,10 +104,7 @@ cask google-chrome
 cask insomnia
 cask iterm2
 cask maccy
-cask microsoft-auto-update
 cask openshift-client
-cask powershell
-cask rancher
 cask rectangle
 cask slack
 cask spotify
@@ -145,15 +138,12 @@ tap microsoft/git
 tap minio/stable
 
 tap norwoodj/tap
+tap hashicorp/tap
 
 tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
-brew icu4c
-brew kubeval
-brew pkg-config
-brew wxwidgets@3.0
 
 # App Store applications
 appstore 408981434 iMovie (10.4.2)
