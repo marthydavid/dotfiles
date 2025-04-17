@@ -78,6 +78,7 @@ brew starship
 brew tcl-tk
 brew terraform
 brew the_silver_searcher
+brew thefuck
 brew tig
 brew tmux
 brew tree
