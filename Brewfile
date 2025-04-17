@@ -117,7 +117,6 @@ cask slack
 cask spotify
 cask tunnelblick
 cask visual-studio-code
-cask wine-stable
 cask wireshark
 cask zerotier-one
 
