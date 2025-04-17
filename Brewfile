@@ -68,7 +68,6 @@ brew python-packaging
 brew python@3.10
 brew python@3.12
 brew python@3.13
-brew pyyaml
 brew rancher-cli
 brew readline
 brew shared-mime-info
