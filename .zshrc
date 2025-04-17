@@ -1,3 +1,8 @@
+autoload -Uz compinit
+compinit
+
+setopt HIST_IGNORE_ALL_DUPS
+
 export ZSH="$HOME/.oh-my-zsh"
 ZSH_THEME="robbyrussell"
 plugins=(git ssh-agent)
