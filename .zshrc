@@ -17,7 +17,7 @@ if type brew &>/dev/null; then
   compinit
 fi
 
-source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $(brew --prefix)/share/zsh-history-substring-search/zsh-history-substring-search.zsh
 source <(vcluster completion zsh)
 source <(kubectl completion zsh)
@@ -32,6 +32,7 @@ alias lst='eza --long --all --no-permissions --no-filesize --no-user --git --sor
 alias ll='eza --long --all --git'
 alias fzfp='fzf --preview \"bat --style numbers --color always {}\"'
 export PATH="${KREW_ROOT:-$HOME/.krew}/bin:$PATH"
+alias kubectl='kubecolor'
 alias k='kubectl'
 alias argocd='argocd --grpc-web'
 compdef k='kubectl'
