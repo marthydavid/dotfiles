@@ -88,6 +88,7 @@ brew watch
 brew wget
 brew xz
 brew yq
+brew zsh-autosuggestions
 brew zsh-completions
 brew zsh-history-substring-search
 brew zsh-syntax-highlighting
