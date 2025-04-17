@@ -121,7 +121,6 @@ cask visual-studio-code
 cask wine-stable
 cask wireshark
 cask zerotier-one
-cask zoom
 
 tap homebrew/bundle
 
@@ -165,15 +164,10 @@ brew pkg-config
 brew wxwidgets@3.0
 
 # App Store applications
-appstore 1402042596 AdBlock (2.1.7)
-appstore 1432731683 Adblock Plus (2.2.16)
-appstore 1460836908 GoPro Player (3.0.0)
 appstore 408981434 iMovie (10.4.2)
 appstore 409183694 Keynote (14.2)
-appstore 1295203466 Microsoft Remote Desktop (10.9.10)
 appstore 409203825 Numbers (14.2)
 appstore 409201541 Pages (14.2)
-appstore 497799835 Xcode (16.0)
 
 # Additional files
 file ~/.config/.Brewfile
