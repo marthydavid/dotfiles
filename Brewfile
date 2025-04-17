@@ -124,8 +124,6 @@ cask zerotier-one
 
 tap homebrew/bundle
 
-tap homebrew/cask-fonts
-
 tap homebrew/services
 
 tap argoproj/tap
