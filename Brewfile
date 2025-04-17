@@ -122,8 +122,6 @@ cask wine-stable
 cask wireshark
 cask zerotier-one
 
-tap homebrew/bundle
-
 tap argoproj/tap
 
 tap azure/draft
