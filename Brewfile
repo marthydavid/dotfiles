@@ -44,6 +44,7 @@ brew jsonnet-bundler
 brew k9s
 brew kcat
 brew krew
+brew kubecolor
 brew kubeconform
 brew kubectx
 brew kubelogin
