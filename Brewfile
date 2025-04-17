@@ -110,7 +110,6 @@ cask iterm2
 cask maccy
 cask microsoft-auto-update
 cask openshift-client
-cask podman-desktop
 cask powershell
 cask rancher
 cask rectangle
