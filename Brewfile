@@ -124,8 +124,6 @@ cask zerotier-one
 
 tap homebrew/bundle
 
-tap homebrew/services
-
 tap argoproj/tap
 
 tap azure/draft
