@@ -22,6 +22,7 @@ brew chart-testing
 brew cilium-cli
 brew cryptography
 brew curl
+brew eza
 brew fontconfig
 brew freetype
 brew fzf
