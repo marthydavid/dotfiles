@@ -106,6 +106,7 @@ cask google-chrome
 cask insomnia
 cask iterm2
 cask maccy
+cask ollama
 cask openshift-client
 cask rectangle
 cask slack
