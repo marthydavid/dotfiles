@@ -6,6 +6,7 @@ brew argo
 brew argocd
 brew argocd-autopilot
 brew argp-standalone
+brew asdf
 brew autoconf
 brew avro-c
 brew awscli
@@ -88,6 +89,7 @@ brew libxrender
 brew libyaml
 brew lima
 brew little-cms2
+brew lsusb
 brew lua
 brew lz4
 brew lzlib
@@ -124,6 +126,7 @@ brew python@3.13
 brew rancher-cli
 brew readline
 brew rtmpdump
+brew screenfetch
 brew shared-mime-info
 brew six
 brew snappy
@@ -139,6 +142,7 @@ brew tig
 brew tmux
 brew tree
 brew unbound
+brew unixodbc
 brew utf8proc
 brew vault
 brew vcluster
@@ -169,6 +173,7 @@ cask maccy
 cask ollama
 cask openshift-client
 cask powershell
+cask rancher
 cask rectangle
 cask slack
 cask spotify
